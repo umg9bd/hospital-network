@@ -4,9 +4,11 @@ Key Features:
 1. 50+ Nodes: Includes PCs, laptops, and printers                                                                                                                             																						
 2. Servers Included: HTTP and FTP servers configured.																																																																																			
 3. Static Routing: Properly structured network traffic management.																																																																																						
-4. Switching & Redundancy: Designed for minimal downtime and efficient communication. Proper Labeling & IP Addressing: All devices, VLANs, and connections are clearly labeled for easy understanding.								         																																																																																																								 5. Segmentation: Departments are logically separated for better security.																																																																																																																		
-6. Dummy VPN Setup: A placeholder VPN is included, which can be configured if needed.(isolated but working properly) Scalable & Modifiable: Can be expanded based on project requirements.																							
-7. Ideal for Learning & Assignments: Perfect for networking students.
+4. Switching & Redundancy: Designed for minimal downtime and efficient communication. Proper Labeling & IP Addressing: All devices, VLANs, and connections are clearly labeled for easy understanding.                  
+5.  Segmentation: Departments are logically separated for better security.																																																																																																																		
+6. Dummy VPN Setup: A placeholder VPN is included, which can be configured if needed.(isolated but working properly)                                                                                                          
+7. Scalable & Modifiable: Can be expanded based on project requirements.	                                                                                                                                																						
+9. Ideal for Learning & Assignments: Perfect for networking students.
 
 IMAGE:
 
